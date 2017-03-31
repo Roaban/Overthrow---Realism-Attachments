@@ -20,7 +20,9 @@ Suppress                                        http://steamcommunity.com/shared
 
 Enhanced A3 Inventory                           http://steamcommunity.com/sharedfiles/filedetails/?id=809527168
 
-Another mod we have been looking at is TPW, however, it does not work on a dedicated server and only partially works on Coop, it is mainly designed for single player, the mod is pretty good, it adds ambient sounds in the towns and villages to make them seem alive, it also provides buildings with furniture and lighting, and much more. 
+Another mod we have been looking at is TPW, however, it does not work on a dedicated server and only partially works on Coop, 
+it is mainly designed for single player, the mod is pretty good, it adds ambient sounds in the towns and villages to make them 
+seem alive, it also provides buildings with furniture and lighting, and much more. 
 
 This is a link to TPW - http://www.armaholic.com/page.php?id=22592
 
