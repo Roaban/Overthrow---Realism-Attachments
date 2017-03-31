@@ -6,7 +6,7 @@ on our server without any obvious problems.
 
 This is the list of items within this collection:
 
-Bloodlust	 http://steamcommunity.com/sharedfiles/filedetails/?id=667953829
+Bloodlust	 http://steamcommunity.com/sharedfiles/filedetails/?id=667953829.
 Enhanced Soundscape	http://steamcommunity.com/sharedfiles/filedetails/?id=825179978
 Blastcore Editied	http://steamcommunity.com/sharedfiles/filedetails/?id=767380317  
 Bullet Casings	http://steamcommunity.com/sharedfiles/filedetails/?id=606289254
